@@ -16,6 +16,8 @@
 
 <p><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" height="26"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square" alt="Jenkins" height="26"></p>
 
+
+
 ### 🎓 Education
 
 - **삼성청년 SW·AI아카데미 14기** | Java Track · 수료 (2025.07 - 2026.06)
