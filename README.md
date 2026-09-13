@@ -1,5 +1,3 @@
-<h1 align="center">장현준</h1>
-
 ### 🛠️ Tech Stack
 
 **Backend**
